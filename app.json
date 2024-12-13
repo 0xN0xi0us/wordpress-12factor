@@ -11,10 +11,5 @@
 	"repository": "https://github.com/dzuelke/wordpress-12factor",
 	"logo": "https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png",
 	"success_url": "javascript:alert(domain)",
-	"addons": [
-		"jawsdb",
-		"<h1>PEPE",
-		"sendgrid"
-	],
 	"image": "heroku/php"
 }
