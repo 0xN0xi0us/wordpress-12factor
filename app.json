@@ -13,7 +13,7 @@
 	"success_url": "javascript:alert(domain)",
 	"addons": [
 		"jawsdb",
-		"javascript%3Aalert(1)",
+		"<h1>PEPE",
 		"sendgrid"
 	],
 	"image": "heroku/php"
