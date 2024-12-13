@@ -29,7 +29,7 @@
 	},
 	"addons": [
 		"jawsdb",
-		"buc<h1>keteer",
+		"javascript:alert(1)",
 		"sendgrid"
 	],
 	"image": "heroku/php"
